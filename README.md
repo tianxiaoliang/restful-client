@@ -1,2 +1,2 @@
 # restful-client
-a template to develop restful client
+a example of restful client
